@@ -11,7 +11,7 @@
 - **Pokec**  
 *Attribute* : region (xx modalities)
 - **MovieLens-100K** and **MovieLens-1M**  
-*Attribute* :
+*Attribute* : gender (binary), occupation (xx modalities), age
 - **DBLP**  
 *Attribute* : country (xx modalities)
 - **Reddit**  

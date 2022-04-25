@@ -1,7 +1,7 @@
 # List of benchmarks graphs and where to download
 
-- Polblogs [link][]
-Attribute : political inclination (binary)
+- **Polblogs** [link](https///)  
+*Attribute* : political inclination (binary)
 - LastFM Asia Social Network :
 - Facebook-E
 - Facebook-P

@@ -3,7 +3,7 @@
 This repository contains additional elements for the survey paper on fairness
 for Machine Learning, including :
 
-- `benchmark.md` provide links to download the benchmark graphs listed in the
+- `benchmarks.md` provide links to download the benchmark graphs listed in the
 article
 - `sota.md` contains links to the github repositories with state-of-the-art
 models implementation.

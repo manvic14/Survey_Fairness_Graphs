@@ -4,8 +4,8 @@
 *Attribute* : political inclination (binary)
 - **LastFM** Asia Social Network   
 *Attribute* :
-- **Facebook-E**  
-*Attribute* :
+- **Facebook-E** [[link]](https://snap.stanford.edu/data/ego-Facebook.html)
+*Attribute* : gender (binary)
 - **Facebook-P**  
 *Attribute* :
 - **Pokec**  
@@ -16,7 +16,7 @@
 *Attribute* :
 - **Reddit**  
 *Attribute* :
-- **Google+**  
+- **Google+** [[link]](https://snap.stanford.edu/data/ego-Gplus.html)
 *Attribute* :
 - **NBA**  
-*Attribute* : 
+*Attribute* :

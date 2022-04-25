@@ -4,7 +4,7 @@
 *Attribute* : political inclination (binary)
 - **LastFM** Asia Social Network   
 *Attribute* :
-- **Facebook-E** [[link]](https://snap.stanford.edu/data/ego-Facebook.html)
+- **Facebook-E** [[link]](https://snap.stanford.edu/data/ego-Facebook.html)  
 *Attribute* : gender (binary)
 - **Facebook-P**  
 *Attribute* :

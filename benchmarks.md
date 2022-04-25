@@ -3,20 +3,20 @@
 - **Polblogs** [[link]](https///)  
 *Attribute* : political inclination (binary)
 - **LastFM** Asia Social Network   
-*Attribute* :
+*Attribute* : country (xx modalities)
 - **Facebook-E** [[link]](https://snap.stanford.edu/data/ego-Facebook.html)  
 *Attribute* : gender (binary)
 - **Facebook-P**  
-*Attribute* :
+*Attribute* : type of the page (4 modalities)
 - **Pokec**  
-*Attribute* :
+*Attribute* : region (xx modalities)
 - **MovieLens-100K** and **MovieLens-1M**  
 *Attribute* :
 - **DBLP**  
-*Attribute* :
+*Attribute* : country (xx modalities)
 - **Reddit**  
-*Attribute* :
+*Attribute* : subreddits (xx modalities)
 - **Google+** [[link]](https://snap.stanford.edu/data/ego-Gplus.html)
-*Attribute* :
+*Attribute* : gender (binary)
 - **NBA**  
-*Attribute* :
+*Attribute* : salary, country (binary), age

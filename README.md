@@ -21,7 +21,7 @@ If you plan on using some of our ressources or the paper itself, please cite our
 
 @article{choudhary2022,   
 title = {Fairness for Machine Learning on Graphs : a Survey}, 
-authors = {Choudhary, Manvi and Laclau, Charlotte and Largeron, Christine}, 
+authors = {Choudhary, Manvi and Laclau, Charlotte and Largeron, Christine},  
 journal = {CoRR},  
 year = {2022}  
 }

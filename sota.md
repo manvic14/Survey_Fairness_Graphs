@@ -49,11 +49,11 @@ Code not available
 Palowitch et al., *MONET: Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit* (2020)  
 Code [[here]](https://github.com/google-research/google-research/tree/master/graph_embedding/monet)  
 
-- **FairAdj**
+- **FairAdj**  
 Li et al., *On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections* (2020)  
 Code [[here]](https://github.com/brandeis-machine-learning/FairAdj)  
 
-- **FairGNN**
+- **FairGNN**  
 Enyan et al., *Say No to the Discrimination: Learning Fair Graph Neural Networks with Limited Sensitive Attribute Information* (2021)  
 Code [[here]](https://github.com/EnyanDai/FairGNN)  
 

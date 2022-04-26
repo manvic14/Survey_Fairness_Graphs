@@ -20,6 +20,8 @@ The paper can be found [[here]](arxiv link).
 If you plan on using some of our ressources or the paper itself, please cite our work as follows
 
 @article{choudhary2022,   
-title = {Fairness for Machine Learning on Graphs : a Survey}  
+title = {Fairness for Machine Learning on Graphs : a Survey}, 
+authors = {Choudhary, Manvi and Laclau, Charlotte and Largeron, Christine}, 
+journal = {CoRR},  
 year = {2022}  
 }

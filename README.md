@@ -8,4 +8,7 @@ article
 - `sota.md` contains links to the github repositories with state-of-the-art
 models implementation.
 - `synthetic` is a folder that contains the code to generate the synthetic
-graphs G1--G6 and a notebook for visualisation.
+graphs G1--G6 and a notebook for visualisation.  
+
+**If your paper does not appear in this survey, but seems relevant to its contents, please let us know, and we will try to include it in
+the revised versions**

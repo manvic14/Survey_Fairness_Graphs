@@ -19,7 +19,7 @@ The paper can be found [[here]](arxiv link).
 
 If you plan on using some of our ressources or the paper itself, please cite our work as follows
 
-@article{choudhary2022, 
-title = {Fairness for Machine Learning on Graphs : a Survey}
-year = {2022}
+@article{choudhary2022,   
+title = {Fairness for Machine Learning on Graphs : a Survey}  
+year = {2022}  
 }

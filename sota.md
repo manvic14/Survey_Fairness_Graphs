@@ -6,8 +6,9 @@
 - **FairOT**  
 Laclau et al., *All All of the Fairness for Edge Prediction with Optimal Transport* (2021)  
 Code [[here]](https://github.com/laclauc/FairGraph)
+
 - **FairDrop**  
-Spinelli et al., *FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning* (2021)
+Spinelli et al., *FairDrop: Biased Edge Dropout for Enhancing Fairness in Graph Representation Learning* (2021)  
 Code [[here]](https://github.com/ispamm/FairDrop) 
 
 ## In-processing 
@@ -38,7 +39,7 @@ Code [[here]](https://github.com/joeybose/Flexible-Fairness-Constraints)
 Masrour et al., *Bursting the Filter Bubble: Fairness-Aware            Network Link Prediction* (2020)  
 Code [[here]](https://github.com/farzmas/FLIP)  
 
-- ** DKGE**  
+- **DKGE**  
 Fisher et al., *Debiasing knowledge graph embeddings* (2020)  
 Code not available  
 

@@ -59,3 +59,9 @@ Code [[here]](https://github.com/EnyanDai/FairGNN)
 
 - **NIFTY**
 
+
+## Other approaches 
+
+- **INFORM**  
+Kang et al., *InFoRM: Individual Fairness on Graph Mining* (2020)  
+Code [[here]](https://github.com/jiank2/inform)

@@ -40,7 +40,7 @@ def property_graph(graph='g1'):
         method = 'partition'
         probs = [[0.20, 0.002, 0.003], [0.002, 0.15, 0.003], [0.003, 0.003, 0.10]]
         sizes = [50, 50, 50]
-        number_class = "multi"
+        number_class = 'binary'
 
     return probs, sizes, number_class, method
 
@@ -114,10 +114,11 @@ def get_graph_prot(sizes=None, probs=None, number_class='binary',
     nx.set_node_attributes(g, dict_s, 's')
     if nb_sens==2:
         p = np.ones(2)
-        prot_s2 = np.random.choice(2, n, p=p * 1 / 2)
+        prot_s2 = np.random.choice(2, n,  p=p * 1 / 2)
         # Assign the attribute as a feature of the nodes directly in the graph
         dict_s2 = {i: prot_s2[i] for i in range(0, len(prot_s2))}
         nx.set_node_attributes(g, dict_s2, 's2')
+        dict_s = [dict_s, dict_s2]
     return g, dict_s
 
 

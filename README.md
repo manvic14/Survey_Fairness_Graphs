@@ -1,4 +1,4 @@
-# Fairness for Machine Learning on Graphs : a survey
+# Fairness for Machine Learning on Graphs : a Survey
 
 This repository contains additional elements for the survey paper on fairness
 for Machine Learning, including :
@@ -11,4 +11,15 @@ models implementation.
 graphs G1--G6 and a notebook for visualisation.  
 
 **If your paper does not appear in this survey, but seems relevant to its contents, please let us know, and we will try to include it in
-the revised versions**
+the revised versions.**  
+
+### Citation 
+
+The paper can be found [[here]](arxiv link).
+
+If you plan on using some of our ressources or the paper itself, please cite our work as follows
+
+@article{choudhary2022, 
+title = {Fairness for Machine Learning on Graphs : a Survey}
+year = {2022}
+}

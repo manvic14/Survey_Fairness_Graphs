@@ -1,5 +1,7 @@
 # List of benchmarks graphs and where to download
 
+Note that this is not an exhaustive list of all graphs that can be used to address fair graph mining, but rather a list of the most commonly used ones.  
+
 - **Polblogs** [[link]](https///)  
 *Attribute* : political inclination (binary)
 - **LastFM** Asia Social Network   

@@ -12,7 +12,7 @@ Note that this is not an exhaustive list of all graphs that can be used to addre
 *Attribute* : type of the page (4 modalities)
 - **Pokec** [[link]](https://github.com/EnyanDai/FairGNN/tree/main/dataset)   
 *Attribute* : gender (binary), region (xx modalities) and age
-- **MovieLens-100K** [[link]](https://grouplens.org/datasets/movielens/100k/) and **MovieLens-1M**  [[link]](https://grouplens.org/datasets/movielens/1m/)
+- **MovieLens-100K** [[link]](https://grouplens.org/datasets/movielens/100k/) and **MovieLens-1M**  [[link]](https://grouplens.org/datasets/movielens/1m/)  
 *Attribute* : gender (binary), occupation (xx modalities), age
 - **DBLP**  
 *Attribute* : country (xx modalities)

@@ -17,7 +17,7 @@ the revised versions.**
 
 ### Citation 
 
-The paper can be found [[http://arxiv.org/abs/2205.05396]](arxiv link).
+The paper can be found [[http://arxiv.org/abs/2205.05396]] (arxiv link).
 
 If you plan on using some of our ressources or the paper itself, please cite our work as follows
 
